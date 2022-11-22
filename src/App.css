@@ -2,9 +2,31 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+header {
+  border: 2px solid blue;
+  margin: 3px;
+  background-color:sandybrown;
+}
+
+.error {
+  color: red
+}
+
+
+
+.buttons button {
+  margin: 2px;
+}
+
+.data {
+  border: 1px solid;
+  margin: 2px 25vw;
+  text-align: center;
+}
+.result {
+  border: 1px solid #61dafb;
+  margin: 2px 15vw;
+  text-align: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
